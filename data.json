@@ -1,0 +1,132 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    },
+    {
+      "id": 2,
+      "name": "Don",
+      "alias": "The Murricane",
+      "superpower": "",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    },
+    {
+      "id": 3,
+      "name": "Richard",
+      "alias": "Long John Silver",
+      "superpower": "Creates long johns out of thin air which will suffocate his opponent",
+      "back story": "Born on the backstreets in the biggest and toughest accounting city; The city of Compound Interest, located on planet dividends. Raised to be as brutal with accounts payable as with long johns, a hero to be respected and feared",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    },
+    {
+      "id": 4,
+      "name": "Joe",
+      "alias": "Joey Badass",
+      "superpower": "Spits hot fire as he raps.",
+      "back story": "Now this is the story all about how
+                    My life got flipped, turned upside down
+                    And I'd like to take a minute just sit right there
+                    I'll tell you how I became the prince of a town called Bel Air
+                    In west Philadelphia born and raised
+                    On the playground where I spent most of my days
+                    Chilling out, maxing, relaxing all cool
+                    And all shooting some b-ball outside of the school
+                    When a couple of guys who were up to no good
+                    Started making trouble in my neighborhood
+                    I got in one little fight and my mom got scared
+                    And said you're moving with your auntie and uncle in Bel Air",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    },
+    {
+      "id": 5,
+      "name": "Daz",
+      "alias": "Freeform",
+      "superpower": "Turn into water and drown the enemies.",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    },
+    {
+      "id": 6,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    },
+    {
+      "id": 7,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+    {
+      "id": 8,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+    {
+      "id": 9,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+    {
+      "id": 10,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+    {
+      "id": 11,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+    {
+      "id": 12,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+    {
+      "id": 13,
+      "name": "Annah",
+      "alias": "Wonder Women",
+      "superpower": "Clone myself",
+      "back story": "",
+      "image": "/images/puppy1.jpg",
+      "votes" : 0
+    }
+  ]
+}
