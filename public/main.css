@@ -1,0 +1,20 @@
+
+.app {
+  margin-left: 8em;
+}
+
+.profiles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 1em 1em 1em 1em;
+  align-items: center;
+
+}
+
+/*.singlePro {
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid black;
+}*/

@@ -1,9 +1,13 @@
-<div>
+<form method="post" action="/">
+<div class="profiles">
 {{#each profiles}}
-  {{> playerButton}}
+  {{>playerButton}}
 {{/each}}
 </div>
+
+<input type="submit" value="vote">
 
 <div>
 <h3>podium</h3>
 </div>
+</form>
