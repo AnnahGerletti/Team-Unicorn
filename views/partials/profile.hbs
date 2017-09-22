@@ -4,5 +4,7 @@
   <h3>{{alias}}</h3>
   <div>Superpower: {{superpower}}</div>
   <div>Back Story: {{backStory}}</div>
-  <button>Vote</button>
+  <form method ="post" action='/vote'>
+  <input type='hidden' name='id' value='{{id}}'>
+  <button>Vote</button></form>
 </div>

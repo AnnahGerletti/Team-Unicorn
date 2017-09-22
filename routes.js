@@ -30,4 +30,16 @@ router.post('/battles/', (req, res) => {
   res.redirect(`/battles/${id1}/${id2}`)
 })
 
+router.post('/vote', (req, res) => {
+  const id = Number(req.body.id)
+  const profileId = data.profiles.findIndex((hero) => {
+    return hero.id === id
+  })
+  // console.log(heros)
+  data.profiles[profileId].votes += 1
+
+
+  res.redirect(`/home`)
+})
+
 module.exports = router
