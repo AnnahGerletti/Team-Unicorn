@@ -18,4 +18,16 @@ router.get('/battles/:id/:id2', (req, res) => {
   res.render('battle', bothHero)
 })
 
+// router.get('/test', (req, res) => {
+//   res.render('test', data)
+// })
+
+router.post('/battles/', (req, res) => {
+  console.log(req.body)
+  var id1 = req.body.id1
+  var id2 = req.body.id2
+
+  res.redirect(`/battles/${id1}/${id2}`)
+})
+
 module.exports = router
