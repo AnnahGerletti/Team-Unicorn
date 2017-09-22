@@ -1,0 +1,10 @@
+<div class="heros">
+  <img class="img-circle" src="{{image}}" alt="{{name}}">
+  <h2>{{name}}</h2>
+  <h3>{{alias}}</h3>
+  <div>Superpower: {{superpower}}</div>
+  <div>Back Story: {{backStory}}</div>
+  <form method ="post" action='/vote'>
+  <input type='hidden' name='id' value='{{id}}'>
+  <button>Vote</button></form>
+</div>
