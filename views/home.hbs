@@ -1,8 +1,20 @@
 <form method="post" action="/">
 <div class="profiles">
-{{#each profiles}}
-  {{>playerButton}}
-{{/each}}
+
+<select name="id1">
+  {{#each profiles}}
+  <option value="{{id}}">{{name}}</option>
+  {{/each}}
+</select>
+
+
+
+<select name="id2">
+  {{#each profiles}}
+  <option value="{{id}}">{{name}}</option>
+  {{/each}}
+</select>
+
 </div>
 
 <input type="submit" value="vote">
