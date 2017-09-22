@@ -4,16 +4,14 @@ const router = express.Router()
 
 const data = require('./data')
 
-router.get('/', (req, res) => {
-  res.send('Home')
+router.get('/home', (req, res) => {
+  res.render('home', data)
 })
 
 router.get('/battles/:id', (req, res) => {
-  res.render('battle/', data)
+ const hero1 = data.profiles.find((hero1) => hero1.id == req.params.id)
+  res.render('battle', hero1)
 })
 
-router.get('/test', (req, res) => {
-  res.render('test', {profiles: ['Harrison', 'Annah', 'Joe']})
-})
 
 module.exports = router

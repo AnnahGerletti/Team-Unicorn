@@ -1,125 +1,121 @@
 {
   "profiles": [
     {
-      "id": 1,
-      "name": "Annah",
-      "alias": "Wonder Women",
-      "superpower": "Clone myself",
-      "back story": "",
-      "image": "/images/anaSuper.jpg",
-      "votes" : 0
+    "id": 1,
+    "name": "Annah",
+    "alias": "Wonder Women",
+    "superpower": "Clone myself",
+    "backStory": "",
+    "image": "/images/anaSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 2,
-      "name": "Don",
-      "alias": "The Murricane",
-      "superpower": "",
-      "back story": "",
-      "image": "/images/donSuper.jpg",
-      "votes" : 0
+    "id": 2,
+    "name": "Don",
+    "alias": "The Murricane",
+    "superpower": "",
+    "backStory": "",
+    "image": "/images/donSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 3,
-      "name": "Richard",
-      "alias": "Long John Silver",
-      "superpower": "Creates long johns out of thin air which will suffocate his opponent",
-      "back story": "Born on the backstreets in the biggest and toughest accounting city; The city of Compound Interest, located on planet dividends. Raised to be as brutal with accounts payable as with long johns, a hero to be respected and feared",
-      "image": "/images/richSuper.jpg
-      ",
-      "votes" : 0
+    "id": 3,
+    "name": "Richard",
+    "alias": "Long John Silver",
+    "superpower": "Creates long johns out of thin air which will suffocate his opponent",
+    "backStory": "Born on the backstreets in the biggest and toughest accounting city; The city of Compound Interest, located on planet dividends. Raised to be as brutal with accounts payable as with long johns, a hero to be respected and feared",
+    "image": "/images/richSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 4,
-      "name": "Joe",
-      "alias": "Joey Badass",
-      "superpower": "Spits hot fire as he raps.",
-      "back story": "Now this is the story all about how
-                    My life got flipped, turned upside down
-                    And I'd like to take a minute if I may
-                    I'll tell you how I became the prince of a town called EDA",
-      "image": "/images/joeSuper.jpg",
-      "votes" : 0
+    "id": 4,
+    "name": "Joe",
+    "alias": "Joey Badass",
+    "superpower": "Spits hot fire as he raps.",
+    "backStory": "Now this is the story all about how my life got flipped, turned upside down and I'd like to take a minute if I may I'll tell you how I became the prince of a town called EDA",
+    "image": "/images/joeSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 5,
-      "name": "Daz",
-      "alias": "Freeform",
-      "superpower": "Turn into water and drown the enemies.",
-      "back story": "",
-      "image": "/images/dazSuper.jpg",
-      "votes" : 0
+    "id": 5,
+    "name": "Daz",
+    "alias": "Freeform",
+    "superpower": "Turn into water and drown the enemies.",
+    "backStory": "",
+    "image": "/images/dazSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 6,
-      "name": "Raj",
-      "alias": "The Fijian Taxi Man",
-      "superpower": "Can teleport people to other places in milliseconds",
-      "back story": "A mix of Indian and Fijian heritage, The Taxi man has aquired the skills to deal with his enemies with strength and hardwork",
-      "image": "/images/rajSuper.jpg",
-      "votes" : 0
+    "id": 6,
+    "name": "Raj",
+    "alias": "The Fijian Taxi Man",
+    "superpower": "Can teleport people to other places in milliseconds",
+    "backStory": "A mix of Indian and Fijian heritage, The Taxi man has aquired the skills to deal with his enemies with strength and hardwork",
+    "image": "/images/rajSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 7,
-      "name": "Octavia",
-      "alias": "OctoLady",
-      "superpower": "OctoLady can multi-punch like no other being, she overwhelms her enemies with using too many attacks on them at once",
-      "back story": "Talking to octopi all her life she has developed her skills to use her arms as 8 limbs rather than 2 ",
-      "image": "/images/octaviaSuper.jpg",
-      "votes" : 0
+    "id": 7,
+    "name": "Octavia",
+    "alias": "OctoLady",
+    "superpower": "OctoLady can multi-punch like no other being, she overwhelms her enemies with using too many attacks on them at once",
+    "backStory": "Talking to octopi all her life she has developed her skills to use her arms as 8 limbs rather than 2.",
+    "image": "/images/octaviaSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 8,
-      "name": "Andrea",
-      "alias": "The Bombastic Brazilian",
-      "superpower": "Her joyous laugh makes her enemies spin and into a state of calm",
-      "back story": "Born in the heart of Brazil, taught to fight crime and have a good time",
-      "image": "/images/andreaSuper.jpg",
-      "votes" : 0
+    "id": 8,
+    "name": "Andrea",
+    "alias": "The Bombastic Brazilian",
+    "superpower": "Her joyous laugh makes her enemies spin and into a state of calm",
+    "backStory": "Born in the heart of Brazil, taught to fight crime and have a good time",
+    "image": "/images/andreaSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 9,
-      "name": "Aaron",
-      "alias": "The Coach",
-      "superpower": "Super at softball, the Coach does not play around. He will fire a thousand softballs at you before you can say 'THE SERVER IS DOWN!' ",
-      "back story": "Coaching all his life",
-      "image": "/images/aaronSuper.jpg",
-      "votes" : 0
+    "id": 9,
+    "name": "Aaron",
+    "alias": "The Coach",
+    "superpower": "Super at softball, the Coach does not play around. He will fire a thousand softballs at you before you can say 'THE SERVER IS DOWN!'",
+    "backStory": "Coaching all his life",
+    "image": "/images/aaronSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 10,
-      "name": "Callan",
-      "alias": "Callan the Careless Whisper",
-      "superpower": "He will whisper sweet code into your ear and comatose you into a deep deep slumber",
-      "back story": "From the isles of Miramar",
-      "image": "/images/callanSUper.jpg",
-      "votes" : 0
+    "id": 10,
+    "name": "Callan",
+    "alias": "Callan the Careless Whisper",
+    "superpower": "He will whisper sweet code into your ear and comatose you into a deep deep slumber",
+    "backStory": "From the isles of Miramar",
+    "image": "/images/callanSUper.jpg",
+    "votes" : 0
     },
     {
-      "id": 11,
-      "name": "Skye",
-      "alias": "The Sloth of the Skies",
-      "superpower": "Relaxed but deadly, she can fly while sleeping",
-      "back story": "fbsdjkbasjlkdf",
-      "image": "/images/skyeSuper.jpg",
-      "votes" : 0
+    "id": 11,
+    "name": "Skye",
+    "alias": "The Sloth of the Skies",
+    "superpower": "Relaxed but deadly, she can fly while sleeping",
+    "backStory": "fbsdjkbasjlkdf",
+    "image": "/images/skyeSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 12,
-      "name": "Harrison",
-      "alias": "Ladybug Killer",
-      "superpower": "Can turn into a lady bug but will go aorund stabbing people",
-      "back story": "sfdgsdgsdf",
-      "image": "/images/harrisSuper.jpg",
-      "votes" : 0
+    "id": 12,
+    "name": "Harrison",
+    "alias": "Ladybug Killer",
+    "superpower": "Can turn into a lady bug but will go around stabbing people",
+    "backStory": "sfdgsdgsdf",
+    "image": "/images/harrisSuper.jpg",
+    "votes" : 0
     },
     {
-      "id": 13,
-      "name": "Don",
-      "alias": "Don The Code Thief",
-      "superpower": "Can take away your superpower by hacking your DNA with code",
-      "back story": "Once a star pupil of the EDA land, he turned Rogue and became the heroes' deadliest code destroyer",
-      "image": "/images/donnnnSuper.png",
-      "votes" : 0
+    "id": 13,
+    "name": "Don",
+    "alias": "Don The Code Thief",
+    "superpower": "Can take away your superpower by hacking your DNA with code",
+    "backStory": "Once a star pupil of the EDA land, he turned Rogue and became the heroes' deadliest code destroyer",
+    "image": "/images/donnnnSuper.png",
+    "votes" : 0
     }
   ]
 }
