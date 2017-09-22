@@ -1,6 +1,47 @@
+
+.app {
+  display: flex;
+  flex-direction: column;
+  background: #6d81a3
+}
+
+.title {
+  text-align: center;
+  color: blue;
+  text-shadow: 2px 2px black;
+  font-size: 80px;
+}
+
+.nav {
+  text-align: center;
+}
+
+select {
+  height: 29px;
+  overflow: hidden;
+  width: 240px;
+}
+
+.selectButton {
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.singlePro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+
 .img-circle {
   border-radius: 50%;
   object-fit: cover;
-  width: 230px;
-  height: 230px;
+  width: 330px;
+  height: 430px;
 }
