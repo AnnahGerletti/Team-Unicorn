@@ -1,4 +1,4 @@
-<div class = "select">
+<form action="/battles" method="post" class = "select">
 <select name="id1">
   {{#each profiles}}
   <option value="{{id}}">{{name}}</option>
@@ -10,8 +10,9 @@
   <option value="{{id}}">{{name}}</option>
   {{/each}}
 </select>
-</div>
+
 
 <div class = "selectButton">
-  <input type="submit" value="Battle">
+  <input type="submit" value="Battle" href="/battles">
 </div>
+</form>
