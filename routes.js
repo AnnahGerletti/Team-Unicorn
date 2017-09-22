@@ -1,16 +1,15 @@
 const express = require('express')
 const hbs = require('express-handlebars')
 const router = express.Router()
-// const data = require ('./data.json')
 
-// const data = require('./data')
+const data = require('./data')
 
 router.get('/', (req, res) => {
   res.send('Home')
 })
 
-router.get('/battles/:id+id', (req, res) => {
-  res.send('Battle page')
+router.get('/battles/:id', (req, res) => {
+  res.render('battle/', data)
 })
 
 router.get('/test', (req, res) => {
