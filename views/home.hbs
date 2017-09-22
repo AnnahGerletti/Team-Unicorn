@@ -1,25 +1,13 @@
 <form method="post" action="/">
-<div class="profiles">
+  <div class="profiles">
+    <div class="container">
+      {{>heros}}
+    </div>
 
-<select name="id1">
-  {{#each profiles}}
-  <option value="{{id}}">{{name}}</option>
-  {{/each}}
-</select>
-
-
-
-<select name="id2">
-  {{#each profiles}}
-  <option value="{{id}}">{{name}}</option>
-  {{/each}}
-</select>
-
-</div>
-
-<input type="submit" value="vote">
-
-<div>
-<h3>podium</h3>
-</div>
+    <div class="container">
+      {{#each profiles}}
+        {{>playerButton}}
+      {{/each}}
+    </div>
+  </div>
 </form>
